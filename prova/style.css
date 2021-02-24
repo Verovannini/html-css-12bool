@@ -2,7 +2,7 @@
     background-color: black;
 }
 
-[class*="col-"].bg-white{
+.debug [class*="col-"].bg-white{
     background-color: white;
 }
 
@@ -13,4 +13,8 @@
 .debug .container{
     background-color: white;
     height: 100px;
+}
+
+.debug [class*="col-"]{
+    border: none;
 }
