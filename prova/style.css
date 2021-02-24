@@ -1,0 +1,16 @@
+.debug [class*="col-"].bg-black{
+    background-color: black;
+}
+
+[class*="col-"].bg-white{
+    background-color: white;
+}
+
+.debug [class*="col-"].bg-brown{
+    background-color: brown;
+}
+
+.debug .container{
+    background-color: white;
+    height: 100px;
+}
